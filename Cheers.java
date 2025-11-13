@@ -10,7 +10,7 @@ public class Cheers {
         String RUNI = args[0];
         String number = args[1];
         int num = Integer.parseInt(number);
-        String vowels = "AEFHILMNORSX";
+        String vowels = "AEFHILMNORSXaefhlmnorsx";
         int i = 0;
         while (i < RUNI.length()) {
             char c = RUNI.charAt(i);
