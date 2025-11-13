@@ -1,4 +1,4 @@
-// Demonstrates the Collatz conjecture.
+
 public class Collatz {
 	public static void main(String args[]) {
 		Integer n = Integer.parseInt(args[0]);
