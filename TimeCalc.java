@@ -1,3 +1,14 @@
+/*
+Feedback:
+Dear Keren,
+You did a solid job overall. Your submission shows good understanding of the main concepts, and you clearly put effort into the assignment.
+Most of your solutions are correct and well-structured.
+Yam
+*/
+
+
+
+
 public class TimeCalc {
     public static void main(String[] args) {
         String clock = args[0];
@@ -20,3 +31,4 @@ public class TimeCalc {
         }
     }
 }
+
